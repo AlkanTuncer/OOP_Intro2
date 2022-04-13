@@ -1,0 +1,7 @@
+
+       --OOP Prensipleri--
+-Temel amaç soyutlama(abstraction)dır. -->Sınıfı kullanıcak kişiler sadece kendi problemleriyle ilgilensinler alt işlemlerle ugraşmasınlar.
+
+1. Kalıtım (Inheritance)  -- extends ve super keywordlerini burda ögrendik.
+    this : Aynı sınıf içerinde constructor cagırılırken kullanılır.
+    super : Ata sınıfından yeni class'ta constructor oluşturulurken kullanılır.

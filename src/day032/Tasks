@@ -1,0 +1,9 @@
+
+Task 1 :
+-Point sınıfı tasarlanacaktır. Bu sınıfın 2 adet tam sayı üyesi bulunacaktır.
+-Bu üyeler x ve y tam sayı değişkenleri olucak.
+-Bu değişlenlerin getter ve setter'ları tasarlanacak.
+-2 adet constructor geliştirilecektir. Constructor'lardan biri parametreli, diğeri ise parametresiz olucaktır.
+-MainApp içerisinde Point sınıfından 2 nesne oluşturulacaktır.
+  -1.Nesne parametreli constructor ile 5 ve 7 değerleri girilerek
+  -2.Nesne parametresiz constructor ile setter ile 3 ve 11 değerleri atanacaktır.
