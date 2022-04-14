@@ -1,9 +1,9 @@
 package day032;
 
-public class MainApp {
+public class AaMainApp {
     public static void main(String[] args) {
 
-        // Task 1 from TasksFile
+        // Task.txt 1 from TasksFile
         Point p1=new Point(5,7);
 
         Point p2=new Point();

@@ -5,3 +5,7 @@
 1. Kalıtım (Inheritance)  -- extends ve super keywordlerini burda ögrendik.
     this : Aynı sınıf içerinde constructor cagırılırken kullanılır.
     super : Ata sınıfından yeni class'ta constructor oluşturulurken kullanılır.
+
+2.Sarmalama (Encapsulation)
+
+3.Çok Biçimlilik (Polimorfism)
