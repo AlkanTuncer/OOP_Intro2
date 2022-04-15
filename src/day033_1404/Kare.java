@@ -1,4 +1,4 @@
-package day033;
+package day033_1404;
 
 public class Kare extends Sekil{
 
@@ -48,4 +48,5 @@ public class Kare extends Sekil{
     public String toString() {
         return String.format("Kenar : %5.2f\tÇevre : %5.2f\tAlan : %5.2f",kenar,cevreHesapla(),alanHesapla());
     }
+
 }

@@ -1,0 +1,15 @@
+
+       --OOP Prensipleri--
+-Temel amaç soyutlama(abstraction)dır. -->Sınıfı kullanıcak kişiler sadece kendi problemleriyle ilgilensinler, alt işlemlerle ugraşmasınlar. 0.Prensip diyebiliriz.
+-Yazdığımız kodlar tekrar tekrar kullanılabilir. Reusable.
+-Bağımsız kod yazılmalıdır(Polimorfism bunu sağlar). Clean kod yazılmalıdır. Kolay anlasılır ve kolay degerlendirilmelidir.
+-Bakım, modifikasyon, değişiklik yapılacaksa kodlarda rahat bir şekilde yapılabilir.
+
+
+1. Kalıtım (Inheritance)  -- extends ve super keywordlerini burda ögrendik.
+    this : Aynı sınıf içerisinde constructor cagırılırken kullanılır.
+    super : Ata sınıfından yeni class'ta constructor oluşturulurken kullanılır.
+
+2.Sarmalama (Encapsulation)
+
+3.Çok Biçimlilik (Polimorfism)

@@ -1,4 +1,4 @@
-package day032;
+package day032_1304;
 
 public class Point3D extends Point{      // extends --> keyword'u ile ata sınıfından bilgileri buraya alıyoruz.
                                          // oluşturdugumuz Point classını kalıtım yoluyla buraya atadık.

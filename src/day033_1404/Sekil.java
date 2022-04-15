@@ -1,4 +1,4 @@
-package day033;
+package day033_1404;
 
 public abstract class Sekil {   // abstract sınıf - soyut sınıf
 

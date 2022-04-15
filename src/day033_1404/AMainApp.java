@@ -1,4 +1,4 @@
-package day033;
+package day033_1404;
 
 import java.util.Scanner;
 
@@ -62,6 +62,7 @@ public class AMainApp {
         sekil53.ciz();
         System.out.println(sekil53);
         System.out.println(sekil53.toString());
+
 
     }
 }

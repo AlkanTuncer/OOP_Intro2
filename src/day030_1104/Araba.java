@@ -1,4 +1,4 @@
-package day030;
+package day030_1104;
 
 public class Araba {  // Nesneyi temsil eden bir çizim gibi düşün. Hafızada yer tutmaz. Ne zaman new operatörü ile MainApp içinde oluşturursak nesne hayata geçer.
 
